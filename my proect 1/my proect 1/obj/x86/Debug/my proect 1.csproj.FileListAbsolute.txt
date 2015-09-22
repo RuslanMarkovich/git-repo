@@ -1,0 +1,8 @@
+F:\ProectWhithGit\my proect 1\my proect 1\bin\Debug\my proect 1.exe
+F:\ProectWhithGit\my proect 1\my proect 1\bin\Debug\my proect 1.pdb
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\my_proect_1.Properties.Resources.resources
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\my proect 1.exe
+F:\ProectWhithGit\my proect 1\my proect 1\obj\x86\Debug\my proect 1.pdb
