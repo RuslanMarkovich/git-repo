@@ -1,3 +1,8 @@
 print ("Hello World!!")
 print ("Hello!")
 מנןמנןמנןמנןההההההההה
+print ("Hello World!!")
+print ("Hello!")
+מנןמנןמנןמנןהההההההההprint ("Hello World!!")
+print ("Hello!")
+מנןמנןמנןמנןההההההההה
